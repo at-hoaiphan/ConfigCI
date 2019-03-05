@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         testasds()
     }
 
-    fun testasds() {
+    fun testasdsAsd() {
         Log.d("zzzz", "")
     }
 }
